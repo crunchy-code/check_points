@@ -1,0 +1,44 @@
+body {
+    width: 640px;
+    height: 1136px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+}
+
+h1 {
+    color: #f17324;
+    font-family:Arial, Helvetica, sans-serif, sans-serif;
+    padding-top: 50px;
+}
+
+p.welcome {
+    font-size: 2em;
+}
+
+p.check {
+    font-family:Arial, Helvetica, sans-serif, sans-serif;
+    color: #f17324;
+    font-size: .7em;
+}
+
+p.footer {
+    font-size: .6em;
+}
+
+p.footer > a {
+    text-decoration: none;
+}
+
+input.button {
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFF;
+    background-color: #f17324;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+}
